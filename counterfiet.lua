@@ -2451,7 +2451,7 @@
     end);
     DiscordServerParagraph = Tabs.InfoTab:Paragraph({
         Title = "Discord Server",
-        Desc = "Link Discord Stander Hub!",
+        Desc = "Link Discord Emin Scripts!",
         TextXAlignment = "Left",
         Buttons = {{
             Title = "Copy Link Discord",
@@ -2467,8 +2467,8 @@
         }}
     });
     DiscordServerParagraph1 = Tabs.InfoTab:Paragraph({
-        Title = "Social Stander Hub",
-        Desc = "Link Social Stander Hub!",
+        Title = "Social Emin Scripts",
+        Desc = "Link Social Emin Scripts!",
         TextXAlignment = "Left",
         Buttons = {{
             Title = "Copy Social",
