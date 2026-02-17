@@ -25,7 +25,7 @@
     local Window = WindUI:CreateWindow({
         Title = "Emin Scripts",
         Icon = "rbxassetid://130692019911397",
-        Author = "https://discord.gg/YDecu8Sfzt | Blox Fruit",
+        Author = "https://discord.gg/F9x2Tmf33s | Blox Fruit",
         Folder = "Vylera Hub_BF",
         Size = UDim2.fromOffset(550, 300),
         Transparent = true,
